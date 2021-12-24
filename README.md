@@ -13,30 +13,28 @@ In process of being a Software Engineer
 
 ```js
 const dfilastro = {
-  personal: {
-    fullName: "Diego Filastro",
-    birthDate: "1990-08-13",
-    pronouns: "he" | "him",
-    interests: [
-      "programming language learning",
-      "technology",
-      "games",
-      "reading",
+    personal: {
+        fullName: "Diego Filastro",
+        birthDate: "1990-08-13",
+        pronouns: "he" | "him",
+        interests: ["programming language learning", "technology", "games", "reading"],
+        motivation: [
+            "god and family",
+            "simplify things through technology"
     ],
-    motivation: ["god and family", "simplify things through technology"],
   },
-  technical: {
-    technologies: {
-      frontEnd: {
-        Javascript: ["React"],
-        HTML: ["HTML5", "Semantic HTML"],
-        CSS: ["CSS3", "styled-components", "Bootstrap"],
-      },
-      backEnd: {
-        Javascript: ["Node.js"],
-      },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ["React"],
+                HTML: ["HTML5", "Semantic HTML"],
+                CSS: ["CSS3", "styled-components", "Bootstrap"],
+            },
+            backEnd: {
+                Javascript: ["Node.js"],
+            },
+        },
     },
-  },
 };
 ```
 
