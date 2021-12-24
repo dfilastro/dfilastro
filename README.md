@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<img src="https://i2.wp.com/omanualdofreelancer.com/wp-content/uploads/2019/05/xcvxcvcvcv.gif?resize=490%2C294&ssl=1" />
+<img src="https://media.giphy.com/media/Dd7qpkZOyu436/giphy.gif" />
+<!-- <img src="https://i2.wp.com/omanualdofreelancer.com/wp-content/uploads/2019/05/xcvxcvcvcv.gif?resize=490%2C294&ssl=1" /> -->
 
-I'm TRYING TO BE a Software Engineer
+In process of being a Software Engineer
 
 <details>
   <summary> More about me</summary>
