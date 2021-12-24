@@ -21,8 +21,8 @@ const dfilastro = {
         motivation: [
             "god and family",
             "simplify things through technology"
-    ],
-  },
+        ],
+    },
     technical: {
         technologies: {
             frontEnd: {
