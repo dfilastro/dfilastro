@@ -17,18 +17,20 @@ const dfilastro = {
     fullName: "Diego Filastro",
     birthDate: "1990-08-13",
     pronouns: "he" | "him",
-    interests: ["language learning", "xxxx", "xxxxxxx", "xxxxx"],
-    motivation: [
-      "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    interests: [
+      "programming language learning",
+      "technology",
+      "games",
+      "reading",
     ],
+    motivation: ["god and family", "simplify things through technology"],
   },
   technical: {
     technologies: {
       frontEnd: {
         Javascript: ["React"],
         HTML: ["HTML5", "Semantic HTML"],
-        CSS: ["sass", "styled-components", "Bootstrap"],
+        CSS: ["CSS3", "styled-components", "Bootstrap"],
       },
       backEnd: {
         Javascript: ["Node.js"],
