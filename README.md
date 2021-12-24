@@ -40,8 +40,8 @@ const dfilastro = {
   </div>
 </details>
 
-[!https://img.shields.io/twitter/url?label=email&logo=microsoft-outlook&style=social&url=http://mailto:d.filastro@hotmail.com](mailto:d.filastro@hotmail.com)
+[![Hotmail](https://img.shields.io/twitter/url?label=email&logo=microsoft-outlook&style=social&url=http://mailto:d.filastro@hotmail.com)](mailto:d.filastro@hotmail.com)
 [![Linkedin: dfilastro](https://img.shields.io/badge/-dfilastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-filastro-74855a39/)](https://www.linkedin.com/in/diego-filastro-74855a39/)
-[![GitHub: dfilastro](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/dfilastro)
+[![GitHub: dfilastro](https://img.shields.io/github/followers/dfilastro?label=follow&style=social)](https://github.com/dfilastro)
 
 </div>
