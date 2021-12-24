@@ -1,11 +1,11 @@
-## Hello, World! 👋
+## Hello, World!
 
 <div align="center">
 
 <img src="./giphy.gif" />
 <!-- <img src="https://i2.wp.com/omanualdofreelancer.com/wp-content/uploads/2019/05/xcvxcvcvcv.gif?resize=490%2C294&ssl=1" /> -->
 
-In process of being a Software Engineer
+I'm in process of being a Software Engineer
 
 <details>
   <summary> More about me</summary>
