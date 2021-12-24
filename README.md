@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fomanualdofreelancer.com%2Fcursos-gratuitos-programacao%2F&psig=AOvVaw2FxzPA2UlrDlmp_FEsWLrK&ust=1640458736031000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDP1YSP_fQCFQAAAAAdAAAAABAJ" />
+<img src="https://i2.wp.com/omanualdofreelancer.com/wp-content/uploads/2019/05/xcvxcvcvcv.gif?resize=490%2C294&ssl=1" />
 
 I'm TRYING TO BE a Software Engineer
 
