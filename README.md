@@ -41,8 +41,7 @@ const dfilastro = {
 </details>
 
 [!https://img.shields.io/twitter/url?label=email&logo=microsoft-outlook&style=social&url=http://mailto:d.filastro@hotmail.com](mailto:d.filastro@hotmail.com)
-[![Twitter: stephdotjs](https://img.shields.io/twitter/follow/stephdotjs?style=social)](https://twitter.com/stephdotjs)
-[![Linkedin: dfilastro](https://img.shields.io/badge/-dfilastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dfilastro/)](https://www.linkedin.com/in/dfilastro/)
+[![Linkedin: dfilastro](https://img.shields.io/badge/-dfilastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-filastro-74855a39/)](https://www.linkedin.com/in/diego-filastro-74855a39/)
 [![GitHub: dfilastro](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/dfilastro)
 
 </div>
