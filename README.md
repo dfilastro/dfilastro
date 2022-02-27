@@ -28,7 +28,7 @@ const dfilastro = {
             frontEnd: {
                 Javascript: ["React"],
                 HTML: ["HTML5", "Semantic HTML"],
-                CSS: ["CSS3", "styled-components", "Bootstrap"],
+                CSS: ["CSS3", "styled-components", "Bootstrap", "SCSS"],
             },
             backEnd: {
                 Javascript: ["Node.js"],
