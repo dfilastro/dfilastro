@@ -1,48 +1,24 @@
-## Hello, World!
+## Oi, eu sou o Diego
 
 <div align="center">
-
-<img src="./giphy.gif" />
-<!-- <img src="https://i2.wp.com/omanualdofreelancer.com/wp-content/uploads/2019/05/xcvxcvcvcv.gif?resize=490%2C294&ssl=1" /> -->
-
-I'm in process of being a Software Engineer
-
-<details>
-  <summary> More about me</summary>
-<div align="left">
-
-```js
-const dfilastro = {
-    personal: {
-        fullName: "Diego Filastro",
-        birthDate: "1990-08-13",
-        pronouns: "he" | "him",
-        interests: ["programming language learning", "technology", "games", "reading"],
-        motivation: [
-            "god and family",
-            "simplify things through technology"
-        ],
-    },
-    technical: {
-        technologies: {
-            frontEnd: {
-                Javascript: ["React"],
-                HTML: ["HTML5", "Semantic HTML"],
-                CSS: ["CSS3", "styled-components", "Bootstrap", "SCSS"],
-            },
-            backEnd: {
-                Javascript: ["Node.js"],
-            },
-        },
-    },
-};
-```
-
-  </div>
-</details>
-
-[![Hotmail](https://img.shields.io/twitter/url?label=email&logo=microsoft-outlook&style=social&url=http://mailto:d.filastro@hotmail.com)](mailto:d.filastro@hotmail.com)
-[![Linkedin: dfilastro](https://img.shields.io/badge/-dfilastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-filastro-74855a39/)](https://www.linkedin.com/in/diego-filastro-74855a39/)
-[![GitHub: dfilastro](https://img.shields.io/github/followers/dfilastro?label=follow&style=social)](https://github.com/dfilastro)
-
+  <a href="https://github.com/dfilastro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfilastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfilastro&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
+  ##  
+ 
+<div> 
+  <a href="https://www.instagram.com/dfilastro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:d.filastro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-filastro-74855a39/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
 </div>
